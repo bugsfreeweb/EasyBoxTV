@@ -9,7 +9,7 @@ function Navbar({ isLightMode, handleToggle }) {
       className={`w-full 
       ${isLightMode ? "bg-gray text-black" : "bg-darkBg text-white"} 
       flex items-center justify-center`}>
-     
+     <h1 className="w-1/3"> LIVE TV Online</h1>
       <h1 className="font-medium text-lg text-center cursor-default p-3 w-1/3">EasyTV</h1>
       <input type="checkbox" id="switch" onChange={handleToggle} />
       <div className="switch-btn w-1/3 flex ml-auto mr-2">
