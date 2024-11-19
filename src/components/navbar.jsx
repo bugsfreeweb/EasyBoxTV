@@ -1,4 +1,4 @@
-import React from "react";
+aimport React from "react";
 import "../style/navbar.css";
 import moon from "../images/moon-icon.png";
 import sun from "../images/sun-icon.png";
@@ -12,7 +12,7 @@ function Navbar({ isLightMode, handleToggle }) {
     >
       <h1 className="w-1/3"></h1>
       <h1 className="font-medium text-lg text-center cursor-default p-3 w-1/3">
-        Web TV İzle
+        EasyTV
       </h1>
       <input type="checkbox" id="switch" onChange={handleToggle} />
       <div className="switch-btn w-1/3 flex ml-auto mr-2">
