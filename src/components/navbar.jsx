@@ -1,4 +1,4 @@
-aimport React from "react";
+import React from "react";
 import "../style/navbar.css";
 import moon from "../images/moon-icon.png";
 import sun from "../images/sun-icon.png";
