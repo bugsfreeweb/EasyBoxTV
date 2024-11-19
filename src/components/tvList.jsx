@@ -10,7 +10,7 @@ import music from "../images/müzik.png";
 import national from "../images/ulusal.png";
 import Footer from "./footer";
 import Navbar from "./navbar";
-import { Adsense } from "@ctrl/react-adsense";
+//import { Adsense } from "@ctrl/react-adsense";
 
 function TvList() {
   const [originalChannels, setOriginalChannels] = useState([]);
