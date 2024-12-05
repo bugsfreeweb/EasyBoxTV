@@ -8,6 +8,7 @@ import news from "../images/news.png";
 import sport from "../images/sport.png";
 import music from "../images/music.png";
 import national from "../images/national.png";
+import others from "../images/others.png";
 import Footer from "./footer";
 import Navbar from "./navbar";
 //import { Adsense } from "@ctrl/react-adsense";
@@ -120,6 +121,9 @@ function TvList() {
                       )}
                       {category === "NATIONAL" && (
                         <img src={national} className="w-8" alt={category} />
+                      )}
+					  {category === "OTHERS" && (
+                        <img src={others} className="w-8" alt={category} />
                       )}
                       <h1 className="text-xs mt-2 font-semibold">{category}</h1>
                     </div>
