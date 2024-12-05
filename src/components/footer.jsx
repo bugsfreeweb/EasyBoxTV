@@ -12,7 +12,7 @@ function Footer({ isLightMode }) {
           isLightMode ? "text-black" : "text-white"
         }`}
       >
-        © Copyright 2025 Bugsfree Studio.
+        © Copyright 2025 Bugsfree Studio
       </h1>
     </div>
   );
