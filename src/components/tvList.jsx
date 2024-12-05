@@ -154,7 +154,7 @@ function TvList() {
               src={
                 selectedChannel.streamUrl
                   ? selectedChannel.streamUrl
-                  : "https://tv8-live.daioncdn.net/tv8/tv8.m3u8"
+                  : "https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8"
               }
               title={selectedChannel.name ? selectedChannel.name : "TV8"}
             />
