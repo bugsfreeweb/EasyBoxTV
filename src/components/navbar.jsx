@@ -2,7 +2,7 @@ import React from "react";
 import "../style/navbar.css";
 import moon from "../images/moon-icon.png";
 import sun from "../images/sun-icon.png";
-import sun from "../images/bugsfreetv.png";
+import bugsfreetv from "../images/bugsfreetv.png";
 
 function Navbar({ isLightMode, handleToggle }) {
   return (
