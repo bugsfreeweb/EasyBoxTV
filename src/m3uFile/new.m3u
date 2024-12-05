@@ -1,4 +1,3 @@
-#EXTM3U 
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="Others",TRT 1
 https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
 #EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="Others",KANAL D
