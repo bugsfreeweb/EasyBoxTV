@@ -2,6 +2,7 @@ import React from "react";
 import "../style/navbar.css";
 import moon from "../images/moon-icon.png";
 import sun from "../images/sun-icon.png";
+import sun from "../images/bugsfreetv.png";
 
 function Navbar({ isLightMode, handleToggle }) {
   return (
@@ -9,7 +10,7 @@ function Navbar({ isLightMode, handleToggle }) {
       className={`w-full 
       ${isLightMode ? "bg-gray text-black" : "bg-darkBg text-white"} 
       flex items-center justify-center`}>
-     <h1 className="w-1/3">&nbsp;&nbsp; LIVE TV Online</h1>
+     <h1 className="w-1/3"><img src={bugsfreetv} alt="bugsfreetv" /></h1>
       <h1 className="font-medium text-lg text-center cursor-default p-3 w-1/3">EasyTV BOX</h1>
       <input type="checkbox" id="switch" onChange={handleToggle} />
       <div className="switch-btn w-1/3 flex ml-auto mr-2">
