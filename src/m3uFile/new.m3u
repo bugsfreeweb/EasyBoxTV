@@ -1,90 +1,90 @@
-#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="Others",TRT 1
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="OTHERS",TRT 1
 https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
-#EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="Others",KANAL D
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="OTHERS",KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="Others",ATV
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="OTHERS",ATV
 https://ecanlitv3.etvserver.com/atv.m3u8?tkn=3-OFE6n073m2IVLQAE6bsQ&tms=1706610519
-#EXTINF:-1 tvg-name="STAR TV" tvg-id="StarTV.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="Others",STAR TV
+#EXTINF:-1 tvg-name="STAR TV" tvg-id="StarTV.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="OTHERS",STAR TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-#EXTINF:-1 tvg-name="SHOW TV" tvg-id="ShowTV.tr" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="Others",SHOW TV
+#EXTINF:-1 tvg-name="SHOW TV" tvg-id="ShowTV.tr" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="OTHERS",SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-#EXTINF:-1 tvg-name="FOX" tvg-id="Fox.tr" tvg-logo="https://i.ibb.co/MVTFq7s/fox.png" group-title="Others",FOX
+#EXTINF:-1 tvg-name="FOX" tvg-id="Fox.tr" tvg-logo="https://i.ibb.co/MVTFq7s/fox.png" group-title="OTHERS",FOX
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-#EXTINF:-1 tvg-name="SÖZCÜ TV HD" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/6NX1j0n/szc-tv.png" group-title="Others",SOZCU TV
+#EXTINF:-1 tvg-name="SÖZCÜ TV HD" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/6NX1j0n/szc-tv.png" group-title="OTHERS",SOZCU TV
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="Others",TV 8
+#EXTINF:-1 tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="OTHERS",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-name="EURO D" tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png" group-title="Others",EURO D
+#EXTINF:-1 tvg-name="EURO D" tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png" group-title="OTHERS",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-name="ATV AVRUPA" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/Mg8kV1j/atv-avrupa.png" group-title="Others",ATV AVRUPA
+#EXTINF:-1 tvg-name="ATV AVRUPA" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/Mg8kV1j/atv-avrupa.png" group-title="OTHERS",ATV AVRUPA
 https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
-#EXTINF:-1 tvg-name="SHOW TURK" tvg-id="ShowTurk.tr" tvg-logo="https://i.ibb.co/rtCJSqm/show-turk.png" group-title="Others",SHOW TURK
+#EXTINF:-1 tvg-name="SHOW TURK" tvg-id="ShowTurk.tr" tvg-logo="https://i.ibb.co/rtCJSqm/show-turk.png" group-title="OTHERS",SHOW TURK
 https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="EUROSTAR" tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/CbdPSX6/euro-star.png" group-title="Others",EUROSTAR
+#EXTINF:-1 tvg-name="EUROSTAR" tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/CbdPSX6/euro-star.png" group-title="OTHERS",EUROSTAR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
-#EXTINF:-1 tvg-name="EUROSTAR" tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/CbdPSX6/euro-star.png" group-title="Others",EUROSTAR
+#EXTINF:-1 tvg-name="EUROSTAR" tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/CbdPSX6/euro-star.png" group-title="OTHERS",EUROSTAR
 https://bozztv.com/gin-trn10/gt-eurostar/playlist.m3u8
-#EXTINF:-1 tvg-name="TV8 International" tvg-id="TV8International.tr" tvg-logo="https://i.ibb.co/ykSLX8Q/tv8-int.png" group-title="Others",TV 8 INT
+#EXTINF:-1 tvg-name="TV8 International" tvg-id="TV8International.tr" tvg-logo="https://i.ibb.co/ykSLX8Q/tv8-int.png" group-title="OTHERS",TV 8 INT
 https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT2.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="Others",TRT 2
+#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT2.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="OTHERS",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT Turk" tvg-id="TRTTurk.tr" tvg-logo="https://i.ibb.co/zN1BK38/trt-turk.png" group-title="Others",TRT TURK
+#EXTINF:-1 tvg-name="TRT Turk" tvg-id="TRTTurk.tr" tvg-logo="https://i.ibb.co/zN1BK38/trt-turk.png" group-title="OTHERS",TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT COCUK" tvg-id="TRTCocuk.tr" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" group-title="Others",TRT COCUK
+#EXTINF:-1 tvg-name="TRT COCUK" tvg-id="TRTCocuk.tr" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" group-title="OTHERS",TRT COCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="KANAL 7" tvg-id="Kanal7.tr" tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="Others",KANAL 7
+#EXTINF:-1 tvg-name="KANAL 7" tvg-id="Kanal7.tr" tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="OTHERS",KANAL 7
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/F4P8ddm/kanal-7-avrupa.png" group-title="Others",KANAL 7 AVRUPA
+#EXTINF:-1 tvg-name="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/F4P8ddm/kanal-7-avrupa.png" group-title="OTHERS",KANAL 7 AVRUPA
 http://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
-#EXTINF:-1 tvg-name="BEYAZ TV" tvg-id="BeyazTV.tr" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="Others",BEYAZ TV
+#EXTINF:-1 tvg-name="BEYAZ TV" tvg-id="BeyazTV.tr" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="OTHERS",BEYAZ TV
 https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="TEVE2" tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="Others",TEVE 2
+#EXTINF:-1 tvg-name="TEVE2" tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="OTHERS",TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-name="A2TV" tvg-id="A2TV.tr" tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="Others",A2
+#EXTINF:-1 tvg-name="A2TV" tvg-id="A2TV.tr" tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="OTHERS",A2
 http://50.7.218.122:8080/a2hd/index.m3u8
-#EXTINF:-1 tvg-name="360" tvg-id="360.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="Others",360
+#EXTINF:-1 tvg-name="360" tvg-id="360.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="OTHERS",360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.png" group-title="Others",TV 4
+#EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.png" group-title="OTHERS",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 tvg-name="WOMAN LIFE" tvg-id="" tvg-logo="https://i.ibb.co/wJm7sfQ/woman-life.png" group-title="Others",WOMAN LIFE
+#EXTINF:-1 tvg-name="WOMAN LIFE" tvg-id="" tvg-logo="https://i.ibb.co/wJm7sfQ/woman-life.png" group-title="OTHERS",WOMAN LIFE
 https://yayin30.haber100.com/live/womanlifetv/chunklist.m3u8
-#EXTINF:-1 tvg-name="WOMAN TV" tvg-id="WomanTV.tr" tvg-logo="https://i.ibb.co/bHTjDyk/woman-tv.png" group-title="Others",WOMAN TV
+#EXTINF:-1 tvg-name="WOMAN TV" tvg-id="WomanTV.tr" tvg-logo="https://i.ibb.co/bHTjDyk/woman-tv.png" group-title="OTHERS",WOMAN TV
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
-#EXTINF:-1 tvg-name="TGRT EU" tvg-id="TGRTEU.tr" tvg-logo="https://i.ibb.co/kMM9hwR/tgrt-eu.png" group-title="Others",TGRT EU
+#EXTINF:-1 tvg-name="TGRT EU" tvg-id="TGRTEU.tr" tvg-logo="https://i.ibb.co/kMM9hwR/tgrt-eu.png" group-title="OTHERS",TGRT EU
 https://bozztv.com/inim03/live1/tgrteu/playlist.m3u8
-#EXTINF:-1 tvg-name="Tivi 6" tvg-id="Tivi6.tr" tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png" group-title="Others",TIVI 6
+#EXTINF:-1 tvg-name="Tivi 6" tvg-id="Tivi6.tr" tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png" group-title="OTHERS",TIVI 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 tvg-name="BIR TV" tvg-id="" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="Others",BIR TV
+#EXTINF:-1 tvg-name="BIR TV" tvg-id="" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="OTHERS",BIR TV
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
-#EXTINF:-1 tvg-name="CINE5 TV" tvg-id="" tvg-logo="https://i.ibb.co/7vNbSyP/cine5.png" group-title="Others",CINE5 TV
+#EXTINF:-1 tvg-name="CINE5 TV" tvg-id="" tvg-logo="https://i.ibb.co/7vNbSyP/cine5.png" group-title="OTHERS",CINE5 TV
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:-1 tvg-name="CİNE1 TV" tvg-id="Cine.1.tr" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="Others",CINE1
+#EXTINF:-1 tvg-name="CİNE1 TV" tvg-id="Cine.1.tr" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="OTHERS",CINE1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:-1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="Others",LIFE TV
+#EXTINF:-1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="OTHERS",LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-#EXTINF:-1 tvg-name="TELEON" tvg-id="" tvg-logo="https://i.ibb.co/TTyVfbP/teleon.png" group-title="Others",TELEON
+#EXTINF:-1 tvg-name="TELEON" tvg-id="" tvg-logo="https://i.ibb.co/TTyVfbP/teleon.png" group-title="OTHERS",TELEON
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="Sport",TRT SPOR
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="SPORT",TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="beINSportsHaber.tr" tvg-id="beIN SPORTS HABER" tvg-logo="https://i.ibb.co/GdkQ5mY/bein-sports-haber.png" group-title="Sport",beIN SPORTS HABER
+#EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="beINSportsHaber.tr" tvg-id="beIN SPORTS HABER" tvg-logo="https://i.ibb.co/GdkQ5mY/bein-sports-haber.png" group-title="SPORT",beIN SPORTS HABER
 https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.m3u8
-#EXTINF:-1 tvg-name="TV 8.5" tvg-id="TV85.tr" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="Sport",TV 8.5
+#EXTINF:-1 tvg-name="TV 8.5" tvg-id="TV85.tr" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="SPORT",TV 8.5
 http://50.7.218.122:8080/tv85/index.m3u8
-#EXTINF:-1 tvg-name="A SPOR" tvg-id="ASpor.tr" tvg-logo="https://i.ibb.co/rwnrgFV/a-spor.png" group-title="Sport",A SPOR
+#EXTINF:-1 tvg-name="A SPOR" tvg-id="ASpor.tr" tvg-logo="https://i.ibb.co/rwnrgFV/a-spor.png" group-title="SPORT",A SPOR
 https://www.youtube.com/live/RTfe-8VY9hU?si=Pg6JzU3CQ5v3bg5o
-#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" group-title="Sport",TRT SPOR YILDIZ
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" group-title="SPORT",TRT SPOR YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="SPORTS TV" tvg-id="SportsTV.tr" tvg-logo="https://i.ibb.co/R3q43dk/sportstv.png" group-title="Sport",SPORTS TV
+#EXTINF:-1 tvg-name="SPORTS TV" tvg-id="SportsTV.tr" tvg-logo="https://i.ibb.co/R3q43dk/sportstv.png" group-title="SPORT",SPORTS TV
 https://sportstv.blutv.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="FB TV" tvg-id="FBTV.tr" tvg-logo="https://i.ibb.co/315SYpK/fb-tv.png" group-title="Sport",FB TV
+#EXTINF:-1 tvg-name="FB TV" tvg-id="FBTV.tr" tvg-logo="https://i.ibb.co/315SYpK/fb-tv.png" group-title="SPORT",FB TV
 https://ecanlitv3.etvserver.com/fbtv.m3u8?tkn=egxQmrHZ6IFYLPvPjGVrGg&tms=1706610451
-#EXTINF:-1 tvg-name="GS TV HD" tvg-id="GSTV.tr" tvg-logo="https://i.ibb.co/6RqMpGT/gs-tv.png" group-title="Sport",GS TV HD
+#EXTINF:-1 tvg-name="GS TV HD" tvg-id="GSTV.tr" tvg-logo="https://i.ibb.co/6RqMpGT/gs-tv.png" group-title="SPORT",GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
-#EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="Sport",TJK TV
+#EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SPORT",TJK TV
 http://tjktv.ercdn.net/tjktv_1080p.m3u8
-#EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="Sport",TJK TV YURT DISI
+#EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SPORT",TJK TV YURT DISI
 https://tjktv-live.tjk.org/tjktv2_1080p.m3u8
-#EXTINF:-1 tvg-name="TAY TV" tvg-id="TAYTV.tr" tvg-logo="https://i.ibb.co/J3Pb4qv/tay-tv.png" group-title="Sport",TAY TV
+#EXTINF:-1 tvg-name="TAY TV" tvg-id="TAYTV.tr" tvg-logo="https://i.ibb.co/J3Pb4qv/tay-tv.png" group-title="SPORT",TAY TV
 https://ythlsgo.onrender.com/channel/UCjkRA7KEdp7PDKDUs396XHg/live.m3u8
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRTBelgesel.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="DOCUMENTARY",TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
@@ -176,84 +176,84 @@ https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1028000_sltur.m3u8
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltur.m3u8
 #EXTINF:-1 tvg-name="POWER TURK SLOW" tvg-id="" tvg-logo="https://i.ibb.co/r55cF2v/pslow.png" group-title="MUSIC",POWER TURK SLOW
 https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="101.astro" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/tv1.png", group-title="Others", TV1
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="101.astro" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/tv1.png", group-title="OTHERS", TV1
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv1/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="102.astro" tvg-name="TV2" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/tv2.png", group-title="Others", TV2
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="102.astro" tvg-name="TV2" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/tv2.png", group-title="OTHERS", TV2
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv2/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/tv3.png", group-title="Others", TV3
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/tv3.png", group-title="OTHERS", TV3
 https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="146.astro" tvg-name="OKEY" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png", group-title="Others", OKEY
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="146.astro" tvg-name="OKEY" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png", group-title="OTHERS", OKEY
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvOkey/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/tv6.png", group-title="Others", TV6
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/tv6.png", group-title="OTHERS", TV6
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv6/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="147.astro" tvg-name="DidikTv" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/didiktv.png", group-title="Others", DidikTv
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="147.astro" tvg-name="DidikTv" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/didiktv.png", group-title="OTHERS", DidikTv
 https://tonton-live-ssai.akamaized.net/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="TVS" tvg-number="121" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/tvs.png", group-title="Others", TVS
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="TVS" tvg-number="121" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/tvs.png", group-title="OTHERS", TVS
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tvs/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="tvikim" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/tvikim.png", group-title="Others", TV Ikim
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="tvikim" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/tvikim.png", group-title="OTHERS", TV Ikim
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvIkim/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="149.astro" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/tv9.png", group-title="Others", TV9
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="149.astro" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/tv9.png", group-title="OTHERS", TV9
 https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="Berita RTM" tvg-name="BeritaRTM" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/berita-rtm.png", group-title="Others", BeritaRTM
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="Berita RTM" tvg-name="BeritaRTM" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/berita-rtm.png", group-title="OTHERS", BeritaRTM
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/BeritaRTM/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="Sukan RTM" tvg-name="Sukan RTM" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/sukan-rtm.png", group-title="Others", Sukan RTM
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="Sukan RTM" tvg-name="Sukan RTM" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/sukan-rtm.png", group-title="OTHERS", Sukan RTM
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/SukanRTM/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="501.astro" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/astro-awani.png", group-title="Others", Astro Awani
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="501.astro" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/astro-awani.png", group-title="OTHERS", Astro Awani
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/AstroAwani/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="Dewan Rakyat" tvg-name="DewanRakyat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",group-title="Others", Dewan Rakyat
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="Dewan Rakyat" tvg-name="DewanRakyat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",group-title="OTHERS", Dewan Rakyat
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanRakyat/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="Dewan Negara" tvg-name="DewanNegara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png", group-title="Others", DewanNegara
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="Dewan Negara" tvg-name="DewanNegara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png", group-title="OTHERS", DewanNegara
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DewanNegara/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/cartoon-network-sea.png", group-title="Others", Cartoon Network
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/cartoon-network-sea.png", group-title="OTHERS", Cartoon Network
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="CNN" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/cnn-usa.png", group-title="Others", CNN
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="CNN" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/cnn-usa.png", group-title="OTHERS", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="BBC" tvg-name="BBC" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/bbc-na.png", group-title="Others", BBC
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="BBC" tvg-name="BBC" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/bbc-na.png", group-title="OTHERS", BBC
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="AlJazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/aljazeera.png", group-title="Others", Al Jazeera
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="AlJazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/aljazeera.png", group-title="OTHERS", Al Jazeera
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="KBS World" tvg-name="KBS World (Eng Sub)" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/kbs-world.png", group-title="Others", KBS World (Eng Sub)
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="KBS World" tvg-name="KBS World (Eng Sub)" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/kbs-world.png", group-title="OTHERS", KBS World (Eng Sub)
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="Rakuten TV (Family Movies)" tvg-name="Rakuten TV (Family Movies)" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/rakuten-tv-family-movies.png", group-title="Others", Rakuten TV (Family Movies)
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="Rakuten TV (Family Movies)" tvg-name="Rakuten TV (Family Movies)" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/rakuten-tv-family-movies.png", group-title="OTHERS", Rakuten TV (Family Movies)
 https://rakuten-family-1-eu.rakuten.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="Rakuten TV (Drama Movies)" tvg-name="Rakuten TV (Drama Movies)" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/rakuten-tv-drama-movies.png", group-title="Others", Rakuten TV (Drama Movies)
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="Rakuten TV (Drama Movies)" tvg-name="Rakuten TV (Drama Movies)" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/rakuten-tv-drama-movies.png", group-title="OTHERS", Rakuten TV (Drama Movies)
 https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-group="siaranMy" tvg-id="Rakuten TV (Comedy Movies)" tvg-name="Rakuten TV (Comedy Movies)" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/rakuten-tv-comedy-movies.png", group-title="Others", Rakuten TV (Comedy Movies)
+#EXTINF:-1 tvg-group="siaranMy" tvg-id="Rakuten TV (Comedy Movies)" tvg-name="Rakuten TV (Comedy Movies)" tvg-logo="https://raw.githubusercontent.com/aidil-sekandar/strim-tv/main/public/channel-banner/rakuten-tv-comedy-movies.png", group-title="OTHERS", Rakuten TV (Comedy Movies)
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-group="radio" tvg-id="Hot Fm" tvg-name="HotFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HotFm.png", group-title="Others", group-title="Others", HotFm
+#EXTINF:-1 tvg-group="radio" tvg-id="Hot Fm" tvg-name="HotFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HotFm.png", group-title="OTHERS", group-title="OTHERS", HotFm
 https://mediaprima.rastream.com/mediaprima-hotfm
 
 
-#EXTINF:-1 tvg-group="radio" tvg-id="Era" tvg-name="Era" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Era.png", group-title="Others", Era
+#EXTINF:-1 tvg-group="radio" tvg-id="Era" tvg-name="Era" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Era.png", group-title="OTHERS", Era
 https://n15.rcs.revma.com/gs7xxfmbv4uvv/15_14h92ghunhmja02/playlist.m3u8
  
-#EXTINF:-1 tvg-group="radio" tvg-id="Hitz Fm" tvg-name="Hitz Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HitzFm.png", group-title="Others", HitzFm
+#EXTINF:-1 tvg-group="radio" tvg-id="Hitz Fm" tvg-name="Hitz Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HitzFm.png", group-title="OTHERS", HitzFm
 https://n44a-eu.rcs.revma.com/488kt4sbv4uvv/68_1txzsglqw5l3t02/playlist.m3u8
  
-#EXTINF:-1 tvg-group="radio" tvg-id="Sinar Fm" tvg-name="SinarFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SinarFm.png", group-title="Others", SinarFm
+#EXTINF:-1 tvg-group="radio" tvg-id="Sinar Fm" tvg-name="SinarFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SinarFm.png", group-title="OTHERS", SinarFm
 https://n08a-eu.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8
  
-#EXTINF:-1 tvg-group="radio" tvg-id="Suria Fm" tvg-name="SuriaFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Suria.png", group-title="Others", SuriaFm
+#EXTINF:-1 tvg-group="radio" tvg-id="Suria Fm" tvg-name="SuriaFm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Suria.png", group-title="OTHERS", SuriaFm
 https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac?dist=joox
