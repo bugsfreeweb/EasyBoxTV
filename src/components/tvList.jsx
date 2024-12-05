@@ -156,7 +156,7 @@ function TvList() {
                   ? selectedChannel.streamUrl
                   : "https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8"
               }
-              title={selectedChannel.name ? selectedChannel.name : "TV8"}
+              title={selectedChannel.name ? selectedChannel.name : "Discovery Hindi"}
             />
           </div>
         </div>
