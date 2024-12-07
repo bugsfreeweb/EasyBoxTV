@@ -8,7 +8,7 @@ import news from "../images/news.png";
 import sport from "../images/sport.png";
 import music from "../images/music.png";
 import national from "../images/national.png";
-import others from "../images/religion.png";
+import religion from "../images/religion.png";
 import others from "../images/others.png";
 import Footer from "./footer";
 import Navbar from "./navbar";
