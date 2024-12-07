@@ -154,9 +154,9 @@ function TvList() {
               src={
                 selectedChannel.streamUrl
                   ? selectedChannel.streamUrl
-                  : "https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8"
+                  : "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
               }
-              title={selectedChannel.name ? selectedChannel.name : "Discovery Hindi"}
+              title={selectedChannel.name ? selectedChannel.name : "Peace TV-EN"}
             />
           </div>
         </div>
