@@ -158,7 +158,7 @@ function TvList() {
               src={
                 selectedChannel.streamUrl
                   ? selectedChannel.streamUrl
-                  : "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
+                  : "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8"
               }
               title={selectedChannel.name ? selectedChannel.name : "Peace TV-EN"}
             />
