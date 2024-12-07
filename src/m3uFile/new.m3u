@@ -30,3 +30,48 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1 tvg-name="COLORS BANGLA" tvg-id="BugsfreeTV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png" group-title="NATIONAL",COLORS BANGLA
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="ENTER 10" tvg-id="BugsfreeTV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="NATIONAL",ENTER 10 BANGLA
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-name="TARA BANGLA CINEMA" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",TARA BANGLA CINEMA
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+
+#EXTINF:-1 tvg-name="KOLKATA BANGLA MOVIE" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",KOLKATA BANGLA MOVIE
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+#EXTINF:-1 tvg-name="ABP BANGLA" tvg-id="BugsfreeTV" tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png" group-title="NATIONAL",ABP BANGLA
+https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NEWS18" tvg-id="BugsfreeTV" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/news18-bangla-news.png" group-title="NATIONAL",NEWS18
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CALCUTTA NEWS" tvg-id="BugsfreeTV" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png" group-title="NATIONAL",CALCUTTA NEWS
+https://akdnetwork.co.in/live/cnnew/index.m3u8
+
+#EXTINF:-1 tvg-name="TV9 BANGLA" tvg-id="BugsfreeTV" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png" group-title="NATIONAL",TV9 BANGLA
+https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SOMOY KOLKATA" tvg-id="BugsfreeTV" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/samay-kolkata.png" group-title="NATIONAL",SOMOY KOLKATA
+https://server.playontv.in/SAMAYKOLKATA/index.m3u8
+
+#EXTINF:-1 tvg-name="R BANGLA" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",R BANGLA
+https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SONY KAL" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",SONY KAL
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MOVIE CLUB" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",MOVIE CLUB
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DEEPTO TV" tvg-id="BugsfreeTV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" group-title="NATIONAL",DEEPTO TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+
+#EXTINF:-1 tvg-name="BIJOY TV" tvg-id="BugsfreeTV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png" group-title="NATIONAL",BIJOY TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BOLLYWOOD HD" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
+
+#EXTINF:-1 tvg-name="BOLLYWOOD CLASSIC" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",BOLLYWOOD CLASSIC
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
