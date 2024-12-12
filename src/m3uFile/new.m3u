@@ -25,6 +25,35 @@ https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-name="ATN BANGLA" tvg-id="BugsfreeTV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png" group-title="NATIONAL",ATN BANGLA
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-name="BOISHAKHI TV" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",BOISHAKHI TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+
+#EXTINF:-1 tvg-name="CHANNEL 24" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",CHENNEL 24
+https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+#EXTINF:-1 tvg-name="INDEPENDENT TV" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",INDEPENDENT TV
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+#EXTINF:-1 tvg-name="JAMUNA TV" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",JAMUNA TV
+https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
+
+#EXTINF:-1 tvg-name="NTV" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",NTV
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+
+#EXTINF:-1 tvg-name="RTV" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",RTV
+https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
+#EXTINF:-1 tvg-name="SOMOY TV" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",SOMOY TV
+https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+#EXTINF:-1 tvg-name="ZEE 24 GHONTA" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",ZEE 24 GHONTA
+https://ythls.armelin.one/channel/UCdF5Q5QVbYstYrTfpgUl0ZA.m3u8
+#EXTINF:-1 tvg-name="TLC HD" tvg-id="BugsfreeTV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png" group-title="NATIONAL",TLC HD
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
+#EXTINF:-1 tvg-name="FOOD NETWORK" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",FOOD NETWORK
+https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
+
+#EXTINF:-1 tvg-name="BBC NEWS" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",BBC NEWS
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-name="ALJAZEERA" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",ALJAZEERA
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+
 #EXTINF:-1 tvg-name="SA TV" tvg-id="BugsfreeTV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="NATIONAL",SA TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 
@@ -61,16 +90,16 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-name="ABP BANGLA" tvg-id="BugsfreeTV" tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png" group-title="NATIONAL",ABP BANGLA
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NEWS18" tvg-id="BugsfreeTV" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/news18-bangla-news.png" group-title="NATIONAL",NEWS18
+#EXTINF:-1 tvg-name="NEWS18" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",NEWS18
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CALCUTTA NEWS" tvg-id="BugsfreeTV" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png" group-title="NATIONAL",CALCUTTA NEWS
+#EXTINF:-1 tvg-name="CALCUTTA NEWS" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",CALCUTTA NEWS
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 
-#EXTINF:-1 tvg-name="TV9 BANGLA" tvg-id="BugsfreeTV" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png" group-title="NATIONAL",TV9 BANGLA
+#EXTINF:-1 tvg-name="TV9 BANGLA" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",TV9 BANGLA
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-name="SOMOY KOLKATA" tvg-id="BugsfreeTV" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/samay-kolkata.png" group-title="NATIONAL",SOMOY KOLKATA
+#EXTINF:-1 tvg-name="SOMOY KOLKATA" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",SOMOY KOLKATA
 https://server.playontv.in/SAMAYKOLKATA/index.m3u8
 
 #EXTINF:-1 tvg-name="R BANGLA" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="NATIONAL",R BANGLA
@@ -106,8 +135,48 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #EXTINF:-1 tvg-name="JOO MUSIC" tvg-id="BugsfreeTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10" group-title="MOVIES",JOO MUSIC
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="ACTION HOLLYWOOD MOVIES" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="MOVIES",ACTION HOLLYWOOD MOVIES
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="9X JALWA" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="MUSIC",9X JALWA
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
+
+#EXTINF:-1 tvg-name="E24" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="MUSIC",E24
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="8XM" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="MUSIC",8XM
+http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SHOW BOX" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="MUSIC",SHOW BOX
+https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
+
+#EXTINF:-1 tvg-name="HINDI HITS" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="MUSIC",HINDI HITS
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
 #EXTINF:-1 tvg-name="BOLLYWOOD PRIME" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="MOVIES",BOLLYWOOD PRIME
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
+
+#EXTINF:-1 tvg-name="T SPORTS" tvg-id="BugsfreeTV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="SPORT",T SPORTS
+https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
+
+#EXTINF:-1 tvg-name="10 SPORT" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="SPORT",10 SPORT
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RED BULL" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="SPORT",RED BULL
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-name="WOMENS SPORT" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="SPORT",WOMENS SPORT
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
+
+#EXTINF:-1 tvg-name="RTA SPORT" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="SPORT",RTA SPORT
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-name="ARY SPORT" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="SPORT",ARY SPORT
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ASTRO CRICKET" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="SPORT",ASTRO CRICKET
+https://criccoder.pages.dev/astro.m3u8
 
 #EXTINF:-1 tvg-name="PTV SPORT" tvg-id="BugsfreeTV" tvg-logo="https://easytvbox.netlify.app/logo.png" group-title="SPORT",PTV SPORT
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
