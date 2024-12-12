@@ -7,6 +7,7 @@ import documentary from "../images/documentary.png";
 import news from "../images/news.png";
 import sport from "../images/sport.png";
 import music from "../images/music.png";
+import movies from "../images/movies.png";
 import national from "../images/national.png";
 import religion from "../images/religion.png";
 import others from "../images/others.png";
@@ -122,6 +123,9 @@ function TvList() {
                       )}    
                       {category === "MUSIC" && (
                         <img src={music} className="w-8" alt={category} />
+                      )}
+			    {category === "MOVIES" && (
+                        <img src={movies} className="w-8" alt={category} />
                       )}
                       {category === "NATIONAL" && (
                         <img src={national} className="w-8" alt={category} />
