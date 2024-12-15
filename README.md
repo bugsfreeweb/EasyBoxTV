@@ -1,2 +1,2 @@
-Easy TV
+Easy BOX TV
 
