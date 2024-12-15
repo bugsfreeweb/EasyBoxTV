@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@aka_theos/react-hls-player": "^1.1.8",
+    "@aka_theos/react-hls-player": "^",
     "@ctrl/react-adsense": "^1.7.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
