@@ -22,16 +22,10 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"   
-  },
+    "eject": "react-scripts eject",
+    "prepare": "legacy-peer-deps"
+  },  
   
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack serve --config webpack/webpack.dev.js",
-    "build": "tsc",
-    "prepublishOnly": "npm run build",
-    "prepare": "install-peers"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gumlet/react-hls-player.git"
