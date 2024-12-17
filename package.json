@@ -23,6 +23,11 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+    "prepare": "install-peers"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gumlet/react-hls-player.git"
   },
   "eslintConfig": {
     "extends": [
